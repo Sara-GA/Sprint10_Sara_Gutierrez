@@ -13,13 +13,17 @@ Finalizado
 ## Características principales
 
 **- Limpieza, transformación y análisis exploratorio de los datos:** 
+
 **- Visualización:** 
+
 **- Artículo de investigación:**
+
 **- Presentación y defensa del proyecto:**
 
 ## Herramientas utilizadas
 
 **- Python:** Para el tratamiento e investigación de los datos.
+
 **- Power BI:** Para la ejecución de los 4 dashboards.
 
 ## Cómo usarlo
