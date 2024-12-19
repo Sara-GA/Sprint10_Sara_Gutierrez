@@ -16,7 +16,7 @@ Finalizado
 
 **- Visualización:** Dashboard interactivo y publicado en la web con Power BI. Ver archivo: . Ver enlace: https://app.powerbi.com/view?r=eyJrIjoiMjJhOTM2NTYtNmQ3MS00MjJhLTg1ZWMtYzRmMzczY2I0YzM2IiwidCI6ImMyZTA0MjUzLTA5NWQtNDRmMy1iZTM0LWE2NTVmN2Y2ZWE5ZiJ9
 
-**- Artículo de investigación:**
+**- Artículo de investigación:** Ver archivo: Informe Proyecto Final Sara Gutierrez.pdf
 
 **- Presentación y defensa del proyecto:**
 
