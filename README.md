@@ -12,9 +12,9 @@ Finalizado
 
 ## Características principales
 
-**- Limpieza, transformación y análisis exploratorio de los datos:** 
+**- Limpieza, transformación, análisis exploratorio de los datos y modelado:** Procesamiento de datos. Investigación de patrones en los outliers. Análisis exploratorio y modelos predictivos. Tratamiento de outliers en este apartado con un Winsorizado. Ver archivo:
 
-**- Visualización:** 
+**- Visualización:** Dashboard interactivo y publicado en la web con Power BI. Ver archivo: . Ver enlace: https://app.powerbi.com/view?r=eyJrIjoiMjJhOTM2NTYtNmQ3MS00MjJhLTg1ZWMtYzRmMzczY2I0YzM2IiwidCI6ImMyZTA0MjUzLTA5NWQtNDRmMy1iZTM0LWE2NTVmN2Y2ZWE5ZiJ9
 
 **- Artículo de investigación:**
 
